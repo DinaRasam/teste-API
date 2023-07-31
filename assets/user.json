@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+      "image": "./assets/images/avatar.png",
       "name": "Leanne Graham",
       "username": "Bret",
       "email": "Sincere@april.biz",

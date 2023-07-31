@@ -11,7 +11,7 @@ fetch("./assets/user.json")
                             '<div class="corps">'+
                                 '<div class="section-haute">'+
                                     '<div class="sec1">'+
-                                        '<div class="photo">'+'</div>'+
+                                        '<div class="photo">'+ element.image +'</div>'+
                                     '</div>'+
                                     '<div class="sec2">'+
                                         '<div class="tableau">'+
